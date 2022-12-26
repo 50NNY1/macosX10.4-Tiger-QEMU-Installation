@@ -1,4 +1,4 @@
-Prerequisites: QEMU, spice-gtk oxs 10.4 (tiger) .iso files. (not my upload) https://drive.google.com/file/d/16IHD6UjQUSfAudv8UrICOMudaVSeOorV/view
+Prerequisites: QEMU, osx10.4 (tiger) .iso files. (not my upload) https://drive.google.com/file/d/16IHD6UjQUSfAudv8UrICOMudaVSeOorV/view
 
 install os:
 1. open terminal, cd into this directory

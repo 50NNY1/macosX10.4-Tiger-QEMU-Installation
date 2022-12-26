@@ -1,3 +1,4 @@
 *.img
 *.toast
 .DS_Store
+shared\ dir/
